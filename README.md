@@ -1,2 +1,2 @@
-#include<iostream>
-  std::cout << "Hello World! :D";
+# Hello World
+This is a simple practice repo
